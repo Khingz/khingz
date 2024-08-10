@@ -44,7 +44,7 @@ Life isn’t all about coding! When I’m not glued to my screen, you might find
 I’m always open to new opportunities and collaborations. If you share similar passions or just want to chat about tech (or anything else), feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kingsley-akpan-162838116/)
-- 🐦 [Twitter]((https://x.com/khingz_a)
+- 🐦 [Twitter](https://x.com/khingz_a)
 - 🌐 [Personal Website](https://khingz.vercel.app/)
 
 ### 🚀 **Open to Collaboration**:
