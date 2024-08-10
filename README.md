@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi there! I'm Kingsley Akpan [Khingz], a passionate full-stack developer with a knack for building scalable web applications. I'm currently focused on crafting seamless user experiences with React, and building robust back-end services using Express.js and Flask.
 
-<!--
-**Khingz/khingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Technologies & Tools:**
+- **Front-End:** React, JavaScript, HTML5, CSS3
+- **Back-End:** Express.js, Flask, Node.js, Python, TypeScript
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Other:** Git, Docker, RESTful APIs, Agile methodologies
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:**
+- Deepening my knowledge of TypeScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 **In My Free Time:**
+- When I'm not coding, you'll find me exploring the world of digital art or watching animes.
+
+💬 **Let's Connect:**
+- [LinkedIn](link-to-profile)
+- [Twitter](link-to-profile)
+- [Personal Website](link-to-website)
+
+🚀 **Always Open to Collaboration:**
+- I'm always open to new opportunities and collaborations. Feel free to reach out!
